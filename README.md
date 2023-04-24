@@ -21,12 +21,8 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  MortgageCalculator             |  A Calculator             | https://github.com/umohhappy/MortgageCalculator.git       |
-| 2 |  PowerBi             |  First project in power It was fun working with power Bi
-
-             | https://github.com/umohhappy/PowerBi.git       |
-| 3 |  IndividualWeek7             |  This is my individual assignment for week7
-
-             | https://github.com/umohhappy/IndividualWeek7.git       |
+| 2 |  PowerBi             |  First project in power It was fun working with power Bi | https://github.com/umohhappy/PowerBi.git       |
+| 3 |  IndividualWeek7             |  This is my individual assignment for week7 | https://github.com/umohhappy/IndividualWeek7.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
